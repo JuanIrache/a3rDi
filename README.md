@@ -1,5 +1,5 @@
 # a3rDi
-Audio-Assisted Sensory Photography for the Blind
+Audio-Assisted Sensory Photography for the Blind (created in 2013, uploaded now)
 
 Video explaining the project here: https://youtu.be/w3Fl9vFYzts
 
