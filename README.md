@@ -15,4 +15,4 @@ Preparation:
 
 I might be forgetting something. This was a long time ago. Feel free to ask.
 
-Here are some other projects of mine that you might find interesting: http://tailorandwayne.com/coding-projects/
+If you liked this you might like some of my [app prototyping](https://prototyping.barcelona).
